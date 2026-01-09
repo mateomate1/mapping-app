@@ -1,11 +1,9 @@
 package io.github.mateomate1.Map;
 
 /**
- * Trying to make my own kind of map based on csv
- * Atributes:
- * -Coordenates(i position + j position)
- * -Content(A number that contains the coordinate info(speed which is 0 for
- * occupied blocks))
+ * Grid Map:
+ *
+ * This map represents a 2D space divided in cells, for simpliciti you will onl
  */
 public class GridMap {
     private final Integer[][] map;
