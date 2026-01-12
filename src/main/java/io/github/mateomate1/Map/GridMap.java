@@ -3,7 +3,7 @@ package io.github.mateomate1.Map;
 /**
  * Grid Map:
  *
- * This map represents a 2D space divided in cells, for simpliciti you will onl
+ * This map represents a 2D space divided in cells, for simplicity you will onl
  */
 public class GridMap {
     private final Integer[][] map;
