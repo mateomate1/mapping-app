@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS maps;
+CREATE DATABASE maps;
+show databases
